@@ -1,0 +1,53 @@
+h2 {
+    text-align: center;
+}
+
+#par1 {
+    color: blue;
+    text-align: center;
+    text-transform: capitalize;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+
+
+}
+
+#par2 {
+    color: rgba(255, 0, 0, 1);
+    text-align: right;
+    text-transform: lowercase;
+    line-height: 2rem;
+    direction: rtl;
+    text-shadow: 3px 3px 5px blue;
+    column-count: 3;
+    column-rule: 3px solid black;
+
+
+}
+
+#par3 {
+    color: #3f27f7;
+    text-align: justify;
+    /* text-decoration: line-through dashed; */
+    font-family: 'Indie Flower', cursi
+
+}
+
+#par4 {
+    color: hsl(0, 100%, 50%);
+    text-decoration: underline;
+    text-indent: 2rem;
+    letter-spacing: 10px;
+}
+
+#par5 {
+    color: crimson;
+    /* text-decoration: overline wavy orange; */
+    text-transform: uppercase;
+    word-spacing: 1rem;
+}
+
+#span1 {
+    color: fuchsia;
+    text-decoration: underline wavy black;
+}
